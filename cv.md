@@ -19,3 +19,15 @@ Miracle Systems, Arlington, VA / May 2010–August 2015
 * Reduced new account opening errors over 90% by developing an effective manual to explain the approved scenarios for opening account products
 * Created and executed over 500 new or updated procedures to ensure flawless implementation and adoption of new processes
 * Generated $1.2 million in revenue by completing 10+ implementation projects
+
+## Hard Skills
+
+* MS Visio
+* Jira
+* SQL
+* Planview
+* Soft Skills
+
+---
+
+2022 (c)
